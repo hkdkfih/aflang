@@ -1,0 +1,23 @@
+{
+    "Developed by hengheng\nCopyright Cherry Service 2024":"Entwickelt von hengheng\nCopyright Cherry Service 2024",
+    "Settings":"Einstellungen",
+    "Go to Settings":"Gehe zu Einstellungen",
+    "Score: ":"Punktzahl: ",
+    "Oops, there were some errors while trying to read the booklist. Pleas Check the server_repo in Settings.":"Hoppla, beim Versuch, die Bücherliste zu lesen, sind einige Fehler aufgetreten. Bitte überprüfen Sie das Server-Repository in den Einstellungen.",
+    "Ignore":"Ignorieren",
+    "Please Choose a Book from List:":"Bitte ein Buch aus der Liste wählen:",
+    "Press Button to Start:":"Zum starten drücken:",
+    "Start":"Start",
+    "input":"Eingabe",
+    "book_repo":"Buch Repo",
+    "Save":"Speichern",
+    "Book":"Buch",
+    "Choose Book from List:":"Ein Buch aus der Liste wählen:",
+    "Language":"Sprache",
+    "Exit App":"App verlassen",
+    "Settings Saved":"Einstellungen gespeichert",
+    "Please restart the app to apply the changes.":"Bitte starten Sie die App neu, um die Änderungen zu übernehmen.",
+    "Correct!":"Richtig!",
+    "Wrong!" : "Falsch!",
+    "Correct answer:":"Richtige Antwort:"
+}
